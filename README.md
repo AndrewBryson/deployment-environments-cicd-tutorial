@@ -21,3 +21,6 @@ In this tutorial, you learn how to:
 ## Getting Started
 
 To use this template repository, follow the steps in [Tutorial: Deploy environments in CI/CD with GitHub](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-github).
+
+# Changes
+1
