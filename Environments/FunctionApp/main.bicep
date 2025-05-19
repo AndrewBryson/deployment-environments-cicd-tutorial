@@ -25,7 +25,7 @@ param runtime string = 'dotnet-isolated'
 param tags object = {}
 
 var linexFxVersions = {
-  dotnet: 'DOTNET|6.0'
+  dotnet: 'DOTNET|8.0'
   'dotnet-isolated': 'DOTNET-ISOLATED|7.0'
   java: 'JAVA|17'
   node: 'NODE|18'
